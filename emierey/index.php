@@ -22,29 +22,13 @@
     	<input type="text" name="middlename"class="form-control">
     </div>
 
+	
      <div class="container">
     	<label>Last Name:</label>
     	<input type="text" name="lastname"class="form-control">
     </div>
 
-     <div>
-    	<label>Age:</label>
-    	<input type="text" name="age"class="form-control">
-    </div>
-
-     <div>
-    	<label>Address:</label>
-    	<input type="text" name="address"class="form-control">
-    </div>
-
-     <div>
-    	<label>Course&Section:</label>
-    	<input type="text" name="firstname"class="form-control">
-    </div>
-
-    <div>
-    	<button type="submit" class="form-control">Submit</button>
-    </div>
+   
 
 </body>
 </html>
